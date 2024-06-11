@@ -3,7 +3,7 @@
 
 
 I'm a backend developer based in Berlin, passionate about building robust solutions and bringing ideas to life through code. Let's create something awesome together!\
-[Software Resume]([https://docs.google.com/document/d/1pyIogZ4cL2HeAzjRjcuaRdO8FMQTSuG9I_DgsAlvu0E/edit](https://drive.google.com/file/d/1QsTf4vkl4RMOXpmDtkZzicIsyN0we9rI/view?usp=sharing))
+[Software Resume](https://drive.google.com/file/d/1QsTf4vkl4RMOXpmDtkZzicIsyN0we9rI/view?usp=sharing)
 
 
 <p align="center">
